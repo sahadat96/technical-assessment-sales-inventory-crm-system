@@ -370,6 +370,6 @@ Queue supported.
 
 # Author
 
-Sahadat Hossain
-
-Backend Developer
+- Sahadat Hossain
+- Full-Stack Engineer
+- sahadatsoftdev96@gmail.com
