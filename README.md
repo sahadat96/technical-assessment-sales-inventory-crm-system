@@ -365,7 +365,6 @@ Queue supported.
 - JWT Authentication
 - Queue Processing
 - Mail Integration
-- Laravel Best Practices
 
 ---
 
@@ -374,5 +373,3 @@ Queue supported.
 Sahadat Hossain
 
 Backend Developer
-
-Laravel • PHP • MySQL
